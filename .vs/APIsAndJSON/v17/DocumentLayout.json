@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kyleh\\OneDrive\\Desktop\\repos\\APIsJSON\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|c:\\users\\kyleh\\onedrive\\desktop\\repos\\apisjson\\apisandjson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|solutionrelative:apisandjson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|c:\\users\\kyleh\\onedrive\\desktop\\repos\\apisjson\\apisandjson\\openweathermapapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|solutionrelative:apisandjson\\openweathermapapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|c:\\users\\kyleh\\onedrive\\desktop\\repos\\apisjson\\apisandjson\\ronvskanyeapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|solutionrelative:apisandjson\\ronvskanyeapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RonVSKanyeAPI.cs",
+              "DocumentMoniker": "C:\\Users\\kyleh\\OneDrive\\Desktop\\repos\\APIsJSON\\APIsAndJSON\\RonVSKanyeAPI.cs",
+              "RelativeDocumentMoniker": "APIsAndJSON\\RonVSKanyeAPI.cs",
+              "ToolTip": "C:\\Users\\kyleh\\OneDrive\\Desktop\\repos\\APIsJSON\\APIsAndJSON\\RonVSKanyeAPI.cs",
+              "RelativeToolTip": "APIsAndJSON\\RonVSKanyeAPI.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAowEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T21:50:23.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OpenWeatherMapAPI.cs",
+              "DocumentMoniker": "C:\\Users\\kyleh\\OneDrive\\Desktop\\repos\\APIsJSON\\APIsAndJSON\\OpenWeatherMapAPI.cs",
+              "RelativeDocumentMoniker": "APIsAndJSON\\OpenWeatherMapAPI.cs",
+              "ToolTip": "C:\\Users\\kyleh\\OneDrive\\Desktop\\repos\\APIsJSON\\APIsAndJSON\\OpenWeatherMapAPI.cs",
+              "RelativeToolTip": "APIsAndJSON\\OpenWeatherMapAPI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T21:23:14.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kyleh\\OneDrive\\Desktop\\repos\\APIsJSON\\APIsAndJSON\\Program.cs",
+              "RelativeDocumentMoniker": "APIsAndJSON\\Program.cs",
+              "ToolTip": "C:\\Users\\kyleh\\OneDrive\\Desktop\\repos\\APIsJSON\\APIsAndJSON\\Program.cs",
+              "RelativeToolTip": "APIsAndJSON\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T16:20:13.595Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
